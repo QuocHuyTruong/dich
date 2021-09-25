@@ -1,0 +1,390 @@
+.entry .entry-content > .button.rainmaker-lms-complete{
+background-color: #80ff80;
+}
+.entry .entry-content > .button.rainmaker-lms-favorite{
+background-color: #bb99ff;
+}
+.lms-next-previous > .rainmaker-lms-next{
+background-color: #66a3ff;
+}
+.lms-next-previous > .button.rainmaker-lms-previous{
+background-color: #66a3ff;
+}
+
+
+.blue-box {
+border-radius:5px;
+padding:10px;
+margin:10px
+}
+
+.education-pro-blue a {
+color:#a8b2b9;
+color:#0000cc
+}
+
+@media only screen and (max-width: 1023px) {
+#text-27 {
+display:none
+}
+}
+
+.content-box-blue {
+background-color:#EEEEEE;
+padding:20px 30px;
+margin:0 -20px 40px
+}
+
+.content-box-red {
+background-color:#e60023;
+background-color #ff9999;
+padding:20px 30px;
+margin:0 -20px 40px
+}
+
+.content-box-black {
+background-color:#eeeeee;
+padding:10px 15px;
+margin:0 -10px 20px
+}
+
+.ninja-forms  {
+background-color:#EEEEEE;
+}
+
+
+
+.my-line-separator {
+height:2px;
+background:#717171;
+border-bottom:1px solid #313030
+}
+
+.home-bottom {
+background-color:#fff!important
+}
+
+.site-description {
+color:#a8b2b9;
+font-family:"Avenir",Avenir,Sans-serif;
+font-style:italic
+}
+
+.education-pro-blue .site-footer,.education-pro-blue .footer-widgets {
+background-color:#000
+}
+
+.education-pro-blue .sidebar .ninja-forms-cont input[type="submit"] {
+background-color:#3d78c1
+background-color:#EC151C
+}
+
+.education-pro-blue .sidebar .ninja-forms-cont input[type="submit"]:hover {
+background-color:#000000;
+background-color:#13D12F
+}
+
+.site-header {
+background:#000000;
+height:180px
+}
+
+.ninja-forms-required-items {
+display:none
+}
+
+.site-header .site-title a,.site-header .site-title a:hover {
+color:#a8b2b9;
+color:#B1E8FA;
+color:#D6D6D6
+}
+
+.header-widget-area .simple-social-icons h4 {
+color:#fff
+}
+
+.genesis-nav-menu li a {
+color:#fff!important
+}
+
+.site-description {
+color:#a8b2b9;
+color:#B1E8FA;
+color:#D6D6D6;
+.site-titlefont-family:Avenir,Avenir,Sans-serif
+}
+
+.education-pro-blue .title-area {
+background-color:#000022;
+background-color:#1C1C1C;
+background-color:#000000;
+border-radius:20pX
+}
+
+.title-area {
+width:260px
+}
+
+.site-footer {
+background:#000000
+}
+
+.entry-title {
+font-size:24px;
+font-weight:bold
+}
+
+.red-box {
+border-radius:15px;
+padding:10px;
+background-color:#EBA39E;
+margin:40px 60px
+}
+
+.footer-widgets-4,.footer-widgets-5 {
+display:none
+}
+
+.footer-widgets-3 {
+margin-right:0
+}
+
+.footer-widgets-1,.footer-widgets-2,.footer-widgets-3 {
+width:350px
+}
+
+.footer-widgets .screen-reader-text {
+position:absolute!important;
+clip:rect(0,0,0,0);
+height:1px;
+width:1px;
+border:0;
+overflow:hidden
+}
+
+table.redTable {
+  border: 0px solid #A40808;
+  background-color: #EEEEEE;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+table.redTable td, table.redTable th {
+  padding: 8px 8px;
+}
+table.redTable tbody td {
+  font-size: 13px;
+}
+table.redTable tr:nth-child(even) {
+  background: #6050F5;
+}
+table.redTable tfoot td {
+  font-size: 13px;
+}
+table.redTable tfoot .links {
+  text-align: right;
+}
+table.redTable tfoot .links a{
+  display: inline-block;
+  background: #FFFFFF;
+  color: #AAAAAA;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+
+
+/* TABLE BLUE */
+div.blueTable {
+  border: 1px solid #1C6EA4;
+  background-color: #EEEEEE;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+.divTable.blueTable .divTableCell, .divTable.blueTable .divTableHead {
+  border: 1px solid #AAAAAA;
+  padding: 3px 2px;
+}
+.divTable.blueTable .divTableBody .divTableCell {
+  font-size: 13px;
+}
+.divTable.blueTable .divTableRow:nth-child(even) {
+  background: #D0E4F5;
+}
+.divTable.blueTable .divTableHeading {
+  background: #1C6EA4;
+  background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  border-bottom: 2px solid #444444;
+}
+.divTable.blueTable .divTableHeading .divTableHead {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  border-left: 2px solid #D0E4F5;
+}
+.divTable.blueTable .divTableHeading .divTableHead:first-child {
+  border-left: none;
+}
+
+.blueTable .tableFootStyle {
+  font-size: 14px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background: #D0E4F5;
+  background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  border-top: 2px solid #444444;
+}
+.blueTable .tableFootStyle {
+  font-size: 14px;
+}
+.blueTable .tableFootStyle .links {
+	 text-align: right;
+}
+.blueTable .tableFootStyle .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+.blueTable.outerTableFooter {
+  border-top: none;
+}
+.blueTable.outerTableFooter .tableFootStyle {
+  padding: 3px 5px; 
+}
+/* DivTable.com */
+.divTable{ display: table; }
+.divTableRow { display: table-row; }
+.divTableHeading { display: table-header-group;}
+.divTableCell, .divTableHead { display: table-cell;}
+.divTableHeading { display: table-header-group;}
+.divTableFoot { display: table-footer-group;}
+.divTableBody { display: table-row-group;}
+/* TABLE BLUE END*/
+
+
+/* LMS - list */
+body .site-container ul.lms-list-items ul,
+body .site-container ul.lms-list-items li,
+body .site-container ul.lms-list-items li a {
+    background: none;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body .site-container ul.lms-list-items .courseware-course > a {
+    font-size: 24px;
+    line-height: 1.2;
+    margin-bottom: 20px;
+}
+
+body .site-container ul.lms-list-items .courseware-course > ul.children {
+    margin-left: 0;
+}
+
+body .site-container ul.lms-list-items .courseware-course > ul.children:before {
+    display: none;
+}
+
+body .site-container ul.lms-list-items ul.children {
+    margin-bottom: 0;
+    margin-top: 0;
+    padding: 15px 0;
+}
+
+body .site-container ul.lms-list-items ul.children:before {
+    border-color: #ddd;
+    left: -20px;
+    top: 0px;
+}
+
+body .site-container ul.lms-list-items .courseware-module > a {
+    background: #fff;
+    border: 1px solid #ddd;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 10px 15px;
+}
+
+body .site-container ul.lms-list-items .courseware-lesson > a {
+    font-size: 13px;
+    font-weight: bold;
+    padding: 5px 0;
+    position: relative;
+}
+
+body .site-container ul.lms-list-items .courseware-lesson > a:before {
+    background: #ddd;
+    border-radius: 50%;
+    content: '';
+    display: block;
+    left: -24px;
+    position: absolute;
+    top: 11px;
+    height: 9px;
+    width: 9px;
+}
+
+body .site-container ul.lms-list-items .courseware-lesson.current_courseware_item > a:before {
+    background: #333;
+}
+
+body .site-container ul.lms-list-items .courseware-course > a:hover,
+body .site-container ul.lms-list-items .courseware-module > a:hover,
+body .site-container ul.lms-list-items .courseware-lesson > a:hover,
+body .site-container ul.lms-list-items .courseware-lesson.current_courseware_item > a {
+    background: none;
+    color: #333;
+}
+
+body .site-container ul.lms-list-items .courseware-module > a:hover {
+    background: #fff;
+}
+
+body .site-container ul.lms-list-items .courseware-module.current_courseware_item > a {
+    background: #333;
+    border-color: #333;
+    color: #fff;
+}
+
+body .site-container ul.lms-list-items li.courseware-module.current_courseware_item > a em,
+body .site-container ul.lms-list-items li.courseware-complete > a em {
+    color: #fff;
+}
+
+body .site-container ul.lms-list-items .courseware-lesson.courseware-complete > a {
+    color: #00ae7b;
+}
+
+body .site-container ul.lms-list-items .courseware-lesson.courseware-complete > a:before {
+    background: #fff;
+    height: 20px;
+    top: 4px;
+}
+
+body .site-container ul.lms-list-items .courseware-lesson.courseware-complete > a .lms-item-complete {
+    position: absolute;
+    left: -31px;
+    top: 0px;
+}
+
+body .site-container ul.lms-list-items .courseware-module.courseware-complete > a {
+    background: #00ae7b;
+    border-color: #00ae7b;
+    color: #fff;
+}
+
+body .site-container ul.lms-list-items .courseware-module.courseware-complete > a .lms-item-complete {
+    line-height: 26px;
+}
+
+body .site-container ul.lms-list-items li a .lms-item-favorite:before {
+    margin-top: 3px;
+}
+/* LMS - list  end*/
